@@ -10,17 +10,17 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "junwei.ng"
 title_separator          : "-"
-subtitle                 : "Thoughts on games and game AI" # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "thing below name"
+subtitle                 : "Thoughts on games and game AI development" # site tagline that appears below site title in masthead
+name                     : "Junwei Ng"
+description              : "A blog on games and game AI development."
 url                      : https://junwei-ng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,15 +93,12 @@ analytics:
 
 # Site Author
 author:
-  name             : #""
+  name             : "Junwei Ng"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #""
-  location         : #""
-  email            :
+  bio              : "Gameplay/AI Programmer"
+  location         : "Japan"
+  email            : "junwei-ng@outlook.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      #url: ""
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -119,17 +116,17 @@ author:
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      #url: ""
+      url: "https://www.linkedin.com/in/junwei-ng"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: ""
+      url: "mailto:junwei-ng@outlook.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      #url: ""
+      url: "https://www.linkedin.com/in/junwei-ng"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
