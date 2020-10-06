@@ -6,7 +6,7 @@ tags: [game-ai, cedec-2020, session-summary, character-ai, coordination]
 categories: [conference-reports]
 ---
 
-Part 5 and the final part of this series describes one lesser-known technique *Blue Protocol's* team layout: single for inter-agent communication: the tuple space.
+Part 5 and the final part of this series describes one lesser-known technique *Blue Protocol's* team used for inter-agent communication: the tuple space.
 
 Original title: 『BLUE PROTOCOLのパーティバトルを支える集団制御AI』 by 長谷 洋平（株式会社バンダイナムコスタジオ）
 [Presentation slides on CEDEC Digital Library (signup required, free)](https://cedil.cesa.or.jp/cedil_sessions/view/2271)
