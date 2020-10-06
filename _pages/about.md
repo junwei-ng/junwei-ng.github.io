@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 ---
 
-I am a professional gameplay programmer mainly working on 3D action games with an interest in game AI. This blog serves as a repository of thoughts, retellings of useful things I've come across, and helpful links I've come across.
+I am a professional gameplay programmer mainly working on 3D action games with an interest in game AI. This blog serves as a repository of articles, thoughts, and helpful links I've come across.
 
 Please feel free to open a pull request for corrections or bugfixes. The git repo for this blog is located [here](https://github.com/junwei-ng/junwei-ng.github.io).
 
